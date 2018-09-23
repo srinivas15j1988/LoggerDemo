@@ -1,0 +1,10 @@
+C:\Users\srinive\source\git\LoggerDemo\LoggerDemo\bin\Debug\netcoreapp2.0\LoggerDemo.deps.json
+C:\Users\srinive\source\git\LoggerDemo\LoggerDemo\bin\Debug\netcoreapp2.0\LoggerDemo.runtimeconfig.json
+C:\Users\srinive\source\git\LoggerDemo\LoggerDemo\bin\Debug\netcoreapp2.0\LoggerDemo.runtimeconfig.dev.json
+C:\Users\srinive\source\git\LoggerDemo\LoggerDemo\bin\Debug\netcoreapp2.0\LoggerDemo.dll
+C:\Users\srinive\source\git\LoggerDemo\LoggerDemo\bin\Debug\netcoreapp2.0\LoggerDemo.pdb
+C:\Users\srinive\source\git\LoggerDemo\LoggerDemo\obj\Debug\netcoreapp2.0\LoggerDemo.csproj.CoreCompileInputs.cache
+C:\Users\srinive\source\git\LoggerDemo\LoggerDemo\obj\Debug\netcoreapp2.0\LoggerDemo.AssemblyInfoInputs.cache
+C:\Users\srinive\source\git\LoggerDemo\LoggerDemo\obj\Debug\netcoreapp2.0\LoggerDemo.AssemblyInfo.cs
+C:\Users\srinive\source\git\LoggerDemo\LoggerDemo\obj\Debug\netcoreapp2.0\LoggerDemo.dll
+C:\Users\srinive\source\git\LoggerDemo\LoggerDemo\obj\Debug\netcoreapp2.0\LoggerDemo.pdb
